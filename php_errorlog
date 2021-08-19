@@ -1,0 +1,8 @@
+[20-Dec-2020 06:06:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/customer/www/staging26.tomsoc.net/public_html/wp-content/plugins/tomsoclivechat/uploadfile.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/staging26.tomsoc.net/public_html/wp-content/plugins/tomsoclivechat/uploadfile.php on line 15
+[20-Dec-2020 06:13:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_upload_bits() in /home/customer/www/staging26.tomsoc.net/public_html/wp-content/plugins/tomsoclivechat/uploadfile.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/staging26.tomsoc.net/public_html/wp-content/plugins/tomsoclivechat/uploadfile.php on line 16
